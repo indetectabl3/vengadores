@@ -2,6 +2,5 @@
 
 * BlackWidow
 * Hulk
-* Capitán America
 * Iron Man
 * otros
